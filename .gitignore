@@ -1,0 +1,10 @@
+.env
+.venv/
+.venv311/
+__pycache__/
+*.py[cod]
+state/
+outputs/agent_runs.jsonl
+outputs/refund_ledger.jsonl
+outputs/test_refund_ledger.jsonl
+outputs/agent_state/
